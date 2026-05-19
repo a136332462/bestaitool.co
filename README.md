@@ -6,7 +6,7 @@ Search, compare, and discover AI tools tailored to your needs.
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-![Best AI Tool](./public/og.png)
+![Best AI Tool](https://www.bestaitool.co/og.png)
 
 **Best AI Tool** is a multilingual AI tools discovery platform built for one clear purpose: helping people find the right AI tool faster.
 

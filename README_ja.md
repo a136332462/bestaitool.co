@@ -6,7 +6,7 @@
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-![Best AI Tool](./public/og_ja.png)
+![Best AI Tool](https://www.bestaitool.co/og_ja.png)
 
 **Best AI Tool** は、必要なAIツールをより早く見つけるための多言語AIツールディレクトリです。
 

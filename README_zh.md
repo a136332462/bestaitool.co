@@ -6,7 +6,7 @@
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-![Best AI Tool](./public/og_zh.png)
+![Best AI Tool](https://www.bestaitool.co/og_zh.png)
 
 **Best AI Tool** 是一个面向全球用户的多语言 AI 工具导航与发现平台，目标非常明确：帮助用户更快找到真正合适的 AI 产品。
 
